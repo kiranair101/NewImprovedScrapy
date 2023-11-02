@@ -70,8 +70,8 @@ The quick way:
 
     pip install scrapy
 
-See the install section in the documentation at
-https://docs.scrapy.org/en/latest/intro/install.html for more details.
+See the simplified installation section here:
+https://github.com/kiranair101/NewImprovedScrapy/blob/master/HowToInstall
 
 Documentation
 =============
